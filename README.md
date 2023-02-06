@@ -1,5 +1,9 @@
 # ChatGPT.nvim [WIP]
 
+## Did not work on my machine, so this fork is for fixing
+
+
+
 ![GitHub Workflow Status](http://img.shields.io/github/actions/workflow/status/jackMort/ChatGPT.nvim/default.yml?branch=main&style=for-the-badge)
 ![Lua](https://img.shields.io/badge/Made%20with%20Lua-blueviolet.svg?style=for-the-badge&logo=lua)
 
